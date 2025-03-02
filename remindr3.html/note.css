@@ -1,0 +1,11 @@
+body{background-color: rgb(189, 102, 117);}
+p{background: fixed;
+background-blend-mode: color;
+font-family:'Times New Roman', Times, serif;
+}
+
+h1{color: rgb(239, 206, 163);}
+h2{color: rgb(239, 206, 163);}
+h4{color: rgb(234, 212, 255);
+font-size: x-large;
+font-family: Arial, Helvetica, sans-serif;}
